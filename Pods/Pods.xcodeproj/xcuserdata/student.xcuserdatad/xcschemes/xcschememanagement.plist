@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AKPickerView-Swift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-To_Do_List.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-To_Do_ListTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-To_Do_ListUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RAReorderableLayout.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1623729FCB447A1D6C8A122207887CF3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5D58CE95A89494AFB50EAFF8FC30F1E8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5EB826BA365CE9B9C312267A37055B61</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7EC1417298041145E9B1A4C7B395C179</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A0E61AF69BB45D1D297D70D87499E870</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
